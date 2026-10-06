@@ -82,7 +82,7 @@
     "hono": ">=3.0.0"
   },
   "devDependencies": {
-    "hono": "^4.11.5",
+    "hono": "^4.13.7",
     "msw": "^2.12.10",
     "tsdown": "^0.15.9",
     "typescript": "^5.9.3",
