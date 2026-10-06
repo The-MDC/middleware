@@ -1792,7 +1792,7 @@ __metadata:
   resolution: "@hono/ajv-validator@workspace:packages/ajv-validator"
   dependencies:
     ajv: "npm:^8.12.0"
-    hono: "npm:^4.11.5"
+    hono: "npm:^4.13.7"
     tsdown: "npm:^0.15.9"
     typescript: "npm:^5.9.3"
     vitest: "npm:^4.1.0-beta.1"
@@ -1807,7 +1807,7 @@ __metadata:
   resolution: "@hono/arktype-validator@workspace:packages/arktype-validator"
   dependencies:
     arktype: "npm:^2.1.29"
-    hono: "npm:^4.11.5"
+    hono: "npm:^4.13.7"
     tsdown: "npm:^0.15.9"
     typescript: "npm:^5.9.3"
     vitest: "npm:^4.1.0-beta.1"
@@ -1823,7 +1823,7 @@ __metadata:
   dependencies:
     "@auth/core": "npm:^0.35.3"
     "@types/react": "npm:^19"
-    hono: "npm:^4.11.5"
+    hono: "npm:^4.13.7"
     react: "npm:^19.2.4"
     tsdown: "npm:^0.15.9"
     typescript: "npm:^5.9.3"
@@ -1840,7 +1840,7 @@ __metadata:
   resolution: "@hono/bun-compress@workspace:packages/bun-compress"
   dependencies:
     "@types/bun": "npm:^1.3.8"
-    hono: "npm:^4.11.5"
+    hono: "npm:^4.13.7"
     tsdown: "npm:^0.15.9"
     typescript: "npm:^5.9.3"
     vitest: "npm:^4.1.0-beta.1"
@@ -1854,7 +1854,7 @@ __metadata:
   resolution: "@hono/bun-transpiler@workspace:packages/bun-transpiler"
   dependencies:
     "@types/bun": "npm:^1.3.8"
-    hono: "npm:^4.11.5"
+    hono: "npm:^4.13.7"
     tsdown: "npm:^0.15.9"
     typescript: "npm:^5.9.3"
     vitest: "npm:^4.1.0-beta.1"
@@ -1871,7 +1871,7 @@ __metadata:
     "@hono/node-ws": "workspace:^"
     "@types/ws": "npm:^8.5.0"
     capnweb: "npm:^0.5.0"
-    hono: "npm:^4.11.5"
+    hono: "npm:^4.13.7"
     publint: "npm:^0.3.16"
     tsdown: "npm:^0.15.9"
     typescript: "npm:^5.9.3"
@@ -1889,7 +1889,7 @@ __metadata:
   dependencies:
     "@types/node": "npm:^25.2.3"
     casbin: "npm:^5.48.0"
-    hono: "npm:^4.11.5"
+    hono: "npm:^4.13.7"
     tsdown: "npm:^0.15.9"
     typescript: "npm:^5.9.3"
     vitest: "npm:^4.1.0-beta.1"
@@ -1905,7 +1905,7 @@ __metadata:
   dependencies:
     class-transformer: "npm:^0.5.1"
     class-validator: "npm:^0.14.1"
-    hono: "npm:^4.11.5"
+    hono: "npm:^4.13.7"
     reflect-metadata: "npm:^0.2.2"
     tsdown: "npm:^0.15.9"
     typescript: "npm:^5.9.3"
@@ -1922,7 +1922,7 @@ __metadata:
     "@clerk/backend": "npm:^2.29.2"
     "@clerk/shared": "npm:^3.42.0"
     "@types/react": "npm:^19"
-    hono: "npm:^4.11.5"
+    hono: "npm:^4.13.7"
     react: "npm:^19.2.4"
     tsdown: "npm:^0.15.9"
     typescript: "npm:^5.9.3"
@@ -1937,7 +1937,7 @@ __metadata:
   resolution: "@hono/cloudflare-access@workspace:packages/cloudflare-access"
   dependencies:
     "@types/node": "npm:^25.2.3"
-    hono: "npm:^4.11.5"
+    hono: "npm:^4.13.7"
     tsdown: "npm:^0.15.9"
     typescript: "npm:^5.9.3"
     vitest: "npm:^4.1.0-beta.1"
@@ -1954,7 +1954,7 @@ __metadata:
     "@conform-to/valibot": "npm:^1.17.1"
     "@conform-to/yup": "npm:^1.14.0"
     "@conform-to/zod": "npm:^1.14.0"
-    hono: "npm:^4.11.5"
+    hono: "npm:^4.13.7"
     tsdown: "npm:^0.15.9"
     typescript: "npm:^5.9.3"
     valibot: "npm:^1.3.0"
@@ -1972,7 +1972,7 @@ __metadata:
   resolution: "@hono/effect-validator@workspace:packages/effect-validator"
   dependencies:
     effect: "npm:3.19.12"
-    hono: "npm:^4.11.5"
+    hono: "npm:^4.13.7"
     tsdown: "npm:^0.15.9"
     typescript: "npm:^5.9.3"
     vitest: "npm:^4.1.0-beta.1"
@@ -1988,7 +1988,7 @@ __metadata:
   dependencies:
     esbuild: "npm:^0.27.2"
     esbuild-wasm: "npm:^0.27.3"
-    hono: "npm:^4.11.5"
+    hono: "npm:^4.13.7"
     tsdown: "npm:^0.15.9"
     typescript: "npm:^5.9.3"
     vitest: "npm:^4.1.0-beta.1"
@@ -2017,7 +2017,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@hono/event-emitter@workspace:packages/event-emitter"
   dependencies:
-    hono: "npm:^4.11.5"
+    hono: "npm:^4.13.7"
     tsdown: "npm:^0.15.9"
     typescript: "npm:^5.9.3"
     vitest: "npm:^4.1.0-beta.1"
@@ -2033,7 +2033,7 @@ __metadata:
     "@cloudflare/vitest-pool-workers": "https://pkg.pr.new/@cloudflare/vitest-pool-workers@7143d5d"
     firebase-auth-cloudflare-workers: "npm:^2.0.6"
     firebase-tools: "npm:^15.2.1"
-    hono: "npm:^4.11.5"
+    hono: "npm:^4.13.7"
     tsdown: "npm:^0.15.9"
     typescript: "npm:^5.9.3"
     vitest: "npm:^4.1.0-beta.1"
@@ -2048,7 +2048,7 @@ __metadata:
   dependencies:
     "@types/bun": "npm:^1.3.8"
     graphql: "npm:^16.5.0"
-    hono: "npm:^4.11.5"
+    hono: "npm:^4.13.7"
     tsdown: "npm:^0.15.9"
     typescript: "npm:^5.9.3"
     vitest: "npm:^4.1.0-beta.1"
@@ -2061,7 +2061,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@hono/hello@workspace:packages/hello"
   dependencies:
-    hono: "npm:^4.11.5"
+    hono: "npm:^4.13.7"
     tsdown: "npm:^0.15.9"
     typescript: "npm:^5.9.3"
     vitest: "npm:^4.1.0-beta.1"
@@ -2077,7 +2077,7 @@ __metadata:
     "@arethetypeswrong/cli": "npm:^0.17.4"
     "@modelcontextprotocol/sdk": "npm:^1.25.1"
     "@types/node": "npm:^25.2.3"
-    hono: "npm:^4.11.5"
+    hono: "npm:^4.13.7"
     hono-rate-limiter: "npm:^0.4.2"
     pkce-challenge: "npm:^5.0.0"
     tsdown: "npm:^0.15.9"
@@ -2097,7 +2097,7 @@ __metadata:
   resolution: "@hono/medley-router@workspace:packages/medley-router"
   dependencies:
     "@medley/router": "npm:^0.2.1"
-    hono: "npm:^4.11.5"
+    hono: "npm:^4.13.7"
     tsdown: "npm:^0.15.9"
     typescript: "npm:^5.9.3"
     vitest: "npm:^4.1.0-beta.1"
@@ -2130,7 +2130,7 @@ __metadata:
   dependencies:
     "@hono/node-server": "npm:^1.19.2"
     "@types/ws": "npm:^8.18.1"
-    hono: "npm:^4.11.5"
+    hono: "npm:^4.13.7"
     tsdown: "npm:^0.15.9"
     typescript: "npm:^5.9.3"
     vitest: "npm:^4.1.0-beta.1"
@@ -2145,7 +2145,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@hono/oauth-providers@workspace:packages/oauth-providers"
   dependencies:
-    hono: "npm:^4.11.5"
+    hono: "npm:^4.13.7"
     msw: "npm:^2.12.10"
     tsdown: "npm:^0.15.9"
     typescript: "npm:^5.9.3"
@@ -2160,7 +2160,7 @@ __metadata:
   resolution: "@hono/oidc-auth@workspace:packages/oidc-auth"
   dependencies:
     "@types/jsonwebtoken": "npm:^9.0.10"
-    hono: "npm:^4.11.5"
+    hono: "npm:^4.13.7"
     jsonwebtoken: "npm:^9.0.3"
     oauth4webapi: "npm:^2.6.0"
     tsdown: "npm:^0.15.9"
@@ -2181,7 +2181,7 @@ __metadata:
     "@opentelemetry/sdk-trace-base": "npm:^2.6.0"
     "@opentelemetry/sdk-trace-node": "npm:^2.6.0"
     "@opentelemetry/semantic-conventions": "npm:^1.28.0"
-    hono: "npm:^4.11.5"
+    hono: "npm:^4.13.7"
     tsdown: "npm:^0.15.9"
     typescript: "npm:^5.9.3"
     vitest: "npm:^4.1.0-beta.1"
@@ -2194,7 +2194,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@hono/prometheus@workspace:packages/prometheus"
   dependencies:
-    hono: "npm:^4.11.5"
+    hono: "npm:^4.13.7"
     prom-client: "npm:^15.0.0"
     tsdown: "npm:^0.15.9"
     typescript: "npm:^5.9.3"
@@ -2211,7 +2211,7 @@ __metadata:
   dependencies:
     "@builder.io/qwik": "npm:^1.19.1"
     "@builder.io/qwik-city": "npm:^1.18.0"
-    hono: "npm:^4.11.5"
+    hono: "npm:^4.13.7"
     tsdown: "npm:^0.15.9"
     typescript: "npm:^5.9.3"
   peerDependencies:
@@ -2225,7 +2225,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@hono/react-compat@workspace:packages/react-compat"
   dependencies:
-    hono: "npm:^4.11.5"
+    hono: "npm:^4.13.7"
     tsdown: "npm:^0.15.9"
     typescript: "npm:^5.9.3"
   peerDependencies:
@@ -2240,7 +2240,7 @@ __metadata:
     "@cloudflare/vitest-pool-workers": "https://pkg.pr.new/@cloudflare/vitest-pool-workers@7143d5d"
     "@types/react": "npm:^19.2.14"
     "@types/react-dom": "npm:^19.2.3"
-    hono: "npm:^4.11.5"
+    hono: "npm:^4.13.7"
     react: "npm:^19.2.4"
     react-dom: "npm:^19.2.4"
     tsdown: "npm:^0.15.9"
@@ -2257,7 +2257,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@hono/sentry@workspace:packages/sentry"
   dependencies:
-    hono: "npm:^4.11.5"
+    hono: "npm:^4.13.7"
     toucan-js: "npm:^4.0.0"
     tsdown: "npm:^0.15.9"
     typescript: "npm:^5.9.3"
@@ -2272,7 +2272,7 @@ __metadata:
   resolution: "@hono/session@workspace:packages/session"
   dependencies:
     "@cloudflare/vitest-pool-workers": "https://pkg.pr.new/@cloudflare/vitest-pool-workers@7143d5d"
-    hono: "npm:^4.11.5"
+    hono: "npm:^4.13.7"
     jose: "npm:^6.0.11"
     tsdown: "npm:^0.15.9"
     typescript: "npm:^5.9.3"
@@ -2302,7 +2302,7 @@ __metadata:
   dependencies:
     "@standard-schema/spec": "npm:1.1.0"
     arktype: "npm:^2.1.29"
-    hono: "npm:^4.11.5"
+    hono: "npm:^4.13.7"
     tsdown: "npm:^0.15.9"
     typescript: "npm:^5.9.3"
     valibot: "npm:^1.3.0"
@@ -2318,7 +2318,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@hono/stytch-auth@workspace:packages/stytch-auth"
   dependencies:
-    hono: "npm:^4.11.5"
+    hono: "npm:^4.13.7"
     stytch: "npm:^12.43.1"
     tsdown: "npm:^0.15.9"
     typescript: "npm:^5.9.3"
@@ -2333,7 +2333,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@hono/swagger-editor@workspace:packages/swagger-editor"
   dependencies:
-    hono: "npm:^4.11.5"
+    hono: "npm:^4.13.7"
     tsdown: "npm:^0.15.9"
     typescript: "npm:^5.9.3"
     vitest: "npm:^4.1.0-beta.1"
@@ -2347,7 +2347,7 @@ __metadata:
   resolution: "@hono/swagger-ui@workspace:packages/swagger-ui"
   dependencies:
     "@types/swagger-ui-dist": "npm:^3.30.6"
-    hono: "npm:^4.11.5"
+    hono: "npm:^4.13.7"
     tsdown: "npm:^0.15.9"
     typescript: "npm:^5.9.3"
     vitest: "npm:^4.1.0-beta.1"
@@ -2361,7 +2361,7 @@ __metadata:
   resolution: "@hono/trpc-server@workspace:packages/trpc-server"
   dependencies:
     "@trpc/server": "npm:^11.8.1"
-    hono: "npm:^4.11.5"
+    hono: "npm:^4.13.7"
     tsdown: "npm:^0.15.9"
     typescript: "npm:^5.9.3"
     vitest: "npm:^4.1.0-beta.1"
@@ -2376,7 +2376,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@hono/tsyringe@workspace:packages/tsyringe"
   dependencies:
-    hono: "npm:^4.11.5"
+    hono: "npm:^4.13.7"
     reflect-metadata: "npm:^0.2.2"
     tsdown: "npm:^0.15.9"
     tsyringe: "npm:^4.10.0"
@@ -2392,7 +2392,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@hono/typebox-validator@workspace:packages/typebox-validator"
   dependencies:
-    hono: "npm:^4.11.5"
+    hono: "npm:^4.13.7"
     tsdown: "npm:^0.15.9"
     typebox: "npm:^1.1.5"
     typescript: "npm:^5.9.3"
@@ -2408,7 +2408,7 @@ __metadata:
   resolution: "@hono/typedriver-validator@workspace:packages/typedriver-validator"
   dependencies:
     arktype: "npm:^2.1.29"
-    hono: "npm:^4.11.5"
+    hono: "npm:^4.13.7"
     tsdown: "npm:^0.15.9"
     typebox: "npm:^1.1.5"
     typedriver: "npm:^0.8.6"
@@ -2427,7 +2427,7 @@ __metadata:
   resolution: "@hono/typia-validator@workspace:packages/typia-validator"
   dependencies:
     "@ryoppippi/unplugin-typia": "npm:2.6.5"
-    hono: "npm:^4.11.5"
+    hono: "npm:^4.13.7"
     tsdown: "npm:^0.15.9"
     typescript: "npm:^5.9.3"
     typia: "npm:^9.7.2"
@@ -2443,7 +2443,7 @@ __metadata:
   resolution: "@hono/ua-blocker@workspace:packages/ua-blocker"
   dependencies:
     "@types/node": "npm:^25.2.3"
-    hono: "npm:^4.11.5"
+    hono: "npm:^4.13.7"
     tsdown: "npm:^0.15.9"
     typescript: "npm:^5.9.3"
     vitest: "npm:^4.1.0-beta.1"
@@ -2456,7 +2456,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@hono/valibot-validator@workspace:packages/valibot-validator"
   dependencies:
-    hono: "npm:^4.11.5"
+    hono: "npm:^4.13.7"
     tsdown: "npm:^0.15.9"
     typescript: "npm:^5.9.3"
     valibot: "npm:^1.3.0"
@@ -2473,7 +2473,7 @@ __metadata:
   dependencies:
     "@asteasolutions/zod-to-openapi": "npm:^8.5.0"
     "@hono/zod-validator": "workspace:^"
-    hono: "npm:^4.11.5"
+    hono: "npm:^4.13.7"
     openapi3-ts: "npm:^4.5.0"
     tsdown: "npm:^0.15.9"
     typescript: "npm:^5.9.3"
@@ -2490,7 +2490,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@hono/zod-validator@workspace:packages/zod-validator"
   dependencies:
-    hono: "npm:^4.11.5"
+    hono: "npm:^4.13.7"
     tsdown: "npm:^0.15.9"
     typescript: "npm:^5.9.3"
     vitest: "npm:^4.1.0-beta.1"
@@ -9612,7 +9612,7 @@ __metadata:
     "@types/node": "npm:^25.2.3"
     "@vitest/coverage-istanbul": "npm:^4.1.0-beta.1"
     eslint: "npm:^10.0.3"
-    hono: "npm:^4.11.5"
+    hono: "npm:^4.13.7"
     pkg-pr-new: "npm:^0.0.63"
     prettier: "npm:^3.8.1"
     publint: "npm:^0.3.16"
@@ -9633,10 +9633,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"hono@npm:^4.11.5":
-  version: 4.11.5
-  resolution: "hono@npm:4.11.5"
-  checksum: 10c0/0473f7dde6f4d2e0d6e04cace561715560d7f884d5c7d3d7bc8e4b7f7b5ec7b826cc996ebcc2b343e1c00a95d7436a95a75c91b3b2a8666ba3b4be4b7bdb1982
+"hono@npm:^4.13.7":
+  version: 4.13.7
+  resolution: "hono@npm:4.13.7"
+  checksum: 10c0/29672a94a4f2be7f3f4d959ad69808dd3bbc220909ca4f9660997022ff45d48ae71e42a460e417d808809d68110196f19359aaab2b14ae6a750331d789601b5a
   languageName: node
   linkType: hard
 
