@@ -50,7 +50,7 @@
     "typescript": "^5.9.3",
     "vitest": "^4.1.0-beta.1",
     "yaml": "^2.8.2",
-    "zod": "^4.2.1"
+    "zod": "^4.6.6"
   },
   "dependencies": {
     "@asteasolutions/zod-to-openapi": "^8.5.0",
